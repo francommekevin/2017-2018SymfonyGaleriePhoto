@@ -1,0 +1,3 @@
+upjv_galerie_photo_homepage:
+    path:     /
+    defaults: { _controller: UPJVGaleriePhotoBundle:Default:index }
