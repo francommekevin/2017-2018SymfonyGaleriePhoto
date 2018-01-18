@@ -1,7 +1,0 @@
-upjv_galerie_photo:
-    resource: "@UPJVGaleriePhotoBundle/Resources/config/routing.yml"
-    prefix:   /
-
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
